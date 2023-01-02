@@ -1,0 +1,1 @@
+web: sh setup.sh && streamlit run PSS_Web_V2.py

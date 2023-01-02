@@ -1,0 +1,7 @@
+streamlit==0.83.0
+requests==2.25.1
+pandas<1.2.5
+numpy==1.21.0
+python_pptx==0.6.21
+Pillow==9.0.1
+base58==2.1.0
